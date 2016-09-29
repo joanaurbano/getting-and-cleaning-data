@@ -1,3 +1,2 @@
-# hello-world
-My first repo
-Editing now readme.md to get used to banches and commits.
+# getting and cleaning data project
+Started: 29/09/2016
